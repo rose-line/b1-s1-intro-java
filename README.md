@@ -13,8 +13,9 @@ Voir les procédures sur le dépôt principal :
 
 ### Cours du 14/09/26
 
-- Correction Exercice [_Calcul de salaire brut_](src/J01CalculSalaireBrut.java)
+- Correction [_Calcul de salaire brut_](src/J01CalculSalaireBrut.java)
 
 ### Cours du 21/09/26
 
-- Correction Exercice [_Texte à trous_](src/J02TexteATrous.java)
+- Correction [_Texte à trous_](src/J02TexteATrous.java)
+- Correction [_Salaire avec prime_](src/J03Prime.java)

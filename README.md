@@ -19,3 +19,5 @@ Voir les procédures sur le dépôt principal :
 
 - Correction [_Texte à trous_](src/J02TexteATrous.java)
 - Correction [_Salaire avec prime_](src/J03Prime.java)
+- Correction [_Salaire avec prime et messages_](src/J04PrimeFelicitations.java)
+- Correction [_Couleur de note_](src/J05CouleurNote.java)

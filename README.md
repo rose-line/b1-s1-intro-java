@@ -11,13 +11,18 @@ Voir les procédures sur le dépôt principal :
 - Installation de Git
 - Création du premier projet Java (avec ou sans Maven)
 
-### Cours du 14/09/26
+### Séance du 14/09/26
 
 - Correction [_Calcul de salaire brut_](src/J01CalculSalaireBrut.java)
 
-### Cours du 21/09/26
+### Séance du 21/09/26
 
 - Correction [_Texte à trous_](src/J02TexteATrous.java)
 - Correction [_Salaire avec prime_](src/J03Prime.java)
 - Correction [_Salaire avec prime et messages_](src/J04PrimeFelicitations.java)
 - Correction [_Couleur de note_](src/J05CouleurNote.java)
+
+### Séance du 28/09/26
+
+- Correction [_Calcul de salaire avec bonus_](src/J06AccordDePret.java)
+- Correction [_Café-crème_](src/J07CafeCreme.java)

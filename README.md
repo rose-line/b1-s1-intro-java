@@ -26,3 +26,9 @@ Voir les procédures sur le dépôt principal :
 
 - Correction [_Calcul de salaire avec bonus_](src/J06AccordDePret.java)
 - Correction [_Café-crème_](src/J07CafeCreme.java)
+
+### Séance du 05/10/26
+
+- Correction [_Validation de l'entrée avec while_](src/J08ValidationEntreeWhile.java)
+- Correction [_Validation de l'entrée avec do-while_](src/J09ValidationEntreeDoWhile.java) (do-while)
+

@@ -1,5 +1,11 @@
 /*
-  Pour obtenir un prêt, on doit gagner plus de 30000 € par an et travailler depuis au moins deux ans.
+  Écrire un programme qui annonce si on n’a pas assez, juste assez, ou plus qu’il ne faut pour se payer un café-crème à 1 € :
+
+  - demande combien on a de « pièces jaunes » de chaque type (1, 5, 10, 20, 50)
+  - affichage en fonction du total calculé (3 types de messages possibles) :
+    - "Il vous manque 25 cents pour prendre un café."
+    - "Vous avez exactement de quoi vous payer le café !"
+    - "Il vous restera 15 cents après avoir pris votre café !"
 */
 
 import java.util.Scanner;
